@@ -30,7 +30,7 @@ fn main() {
             let dec: isize = -1_000;
             let hex: isize = 0xff;
             let oct: isize = 0o77;
-            let bin: isize = 0o1111_1010;
+            let bin: isize = 0b1111_1010;
             let byte: u8 = b'A';
         }
 

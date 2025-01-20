@@ -18,7 +18,7 @@ fn main() {
 
     {
         let mut a = String::from("123");
-        modify(&mut a); // modifying immutable string
+        modify(&mut a);
     }
 
     {
