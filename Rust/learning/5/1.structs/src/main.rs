@@ -24,7 +24,7 @@ fn main() {
         };
 
         // Updating one field, but whole struct should be mut
-        user2.email =String::from("Username@dot.net");
+        user2.email = String::from("Username@dot.net");
 
         // From other user
         let user3 = User {
