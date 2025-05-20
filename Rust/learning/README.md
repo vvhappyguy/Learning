@@ -16,7 +16,7 @@ Total: 100 hours - 2 months - finish before August.
 
 - Rustbook <-- now here
   - 7/22 completed (spent about 8 hours).
-  - 8 -  2 hours
+  - 8 -  1.5 hours + 2 tasks remain
   - 9 -  2 hours
   - 10 - 2 hours
   - 11 - 2 hours
@@ -32,6 +32,7 @@ Total: 100 hours - 2 months - finish before August.
   - 21 - 4 hours
   - 22 - 1 hour
   Total 51 hours (about 3 weeks) - 9/06 deadline.
+  
 - Leetcode 10 tasks (Total 15 hours)
 - Some system programming with Rust (windows kernel programming if possible) - (Total 15 hours)
 - Rust Course - practical - (Total 20 hours)
