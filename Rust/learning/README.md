@@ -12,7 +12,7 @@
 
 ## Steps
 
-Total: 120 hours - 2 months - finish before August.
+Total: 100 hours - 2 months - finish before August.
 
 - Rustbook <-- now here
   - 7/22 completed (spent about 8 hours).
@@ -33,15 +33,19 @@ Total: 120 hours - 2 months - finish before August.
   - 22 - 1 hour
   Total 51 hours (about 3 weeks) - 9/06 deadline.
 - Leetcode 10 tasks (Total 15 hours)
-- Rust Course - basic - parallel with leetcode (Total 15 hours)
-  - [Rust: The Complete Developer's Guide](https://www.udemy.com/course/rust-the-complete-developers-guide/)
-  - [Ultimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course/?couponCode=CP130525) and [2nd](https://www.udemy.com/course/ultimate-rust-2/?couponCode=CP130525)
-- Some system programming with rust (windows kernel programming if possible) - (Total 15 hours)
-- Rust Course - practical - (Total 15 hours)
+- Some system programming with Rust (windows kernel programming if possible) - (Total 15 hours)
+- Rust Course - practical - (Total 20 hours)
   - [Udemy - Zero-Knowledge Proofs in Rust](https://www.udemy.com/course/zero-knowledge-proofs-in-rust/?couponCode=CP130525)
   - [Solana Blockchain Developer Bootcamp with Rust + JavaScript](https://www.udemy.com/course/solana-developer/?couponCode=CP130525)
-  - [Embedded Rust for Absolute Beginners](https://www.udemy.com/course/embedded-rust-for-absolute-beginners/?couponCode=CP130525)
   - [Learn Rust by Building Real Applications](https://www.udemy.com/course/rust-fundamentals/)
+
+### Removed from learning plan
+
+- [Embedded Rust for Absolute Beginners](https://www.udemy.com/course/embedded-rust-for-absolute-beginners/?couponCode=CP130525) - good course, but need some hardware for real impact.
+
+- Rust Course - basic - parallel with leetcode - no need now more basic course, instead need more practical course.
+  - [Rust: The Complete Developer's Guide](https://www.udemy.com/course/rust-the-complete-developers-guide/)
+  - [Ultimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course/?couponCode=CP130525) and [2nd](https://www.udemy.com/course/ultimate-rust-2/?couponCode=CP130525)
 
 ## Additional
 
