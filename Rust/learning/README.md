@@ -58,6 +58,8 @@ Total: 100 hours - 2 months - finish before August.
 
 Plan (before start):
 
-- [ ] Solve task 2 from 8.3
-- [ ] Solve task 3 from 8.3
-- [ ] Learn chapter 9
+- [x] Solve task 2 from 8.3
+- [x] Solve task 3 from 8.3
+- [x] Learn chapter 9
+
+Finished in 3.5 hours.

@@ -8,3 +8,5 @@
 - coerce - принуждать
 - homogeneous - однородный
 - intentional - намеренный
+- concise - краткий
+- Propagating - распространяющий(ся)
