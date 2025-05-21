@@ -32,7 +32,7 @@ Total: 100 hours - 2 months - finish before August.
   - 21 - 4 hours
   - 22 - 1 hour
   Total 51 hours (about 3 weeks) - 9/06 deadline.
-  
+
 - Leetcode 10 tasks (Total 15 hours)
 - Some system programming with Rust (windows kernel programming if possible) - (Total 15 hours)
 - Rust Course - practical - (Total 20 hours)
@@ -51,3 +51,13 @@ Total: 100 hours - 2 months - finish before August.
 ## Additional
 
 - [ ] Remind about 2-complement (all operations)
+
+## Daily
+
+### 21.05.2025 (1.5-2 hours)
+
+Plan (before start):
+
+- [ ] Solve task 2 from 8.3
+- [ ] Solve task 3 from 8.3
+- [ ] Learn chapter 9

@@ -7,3 +7,4 @@
 - redundant - избыточны
 - coerce - принуждать
 - homogeneous - однородный
+- intentional - намеренный
