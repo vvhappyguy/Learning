@@ -9,17 +9,22 @@
 - `cargo build --release` - build in release mode.
 - `cargo run` - run program.
 - `cargo check` - build with no executable.
+- `cargo new X --name Y` - to create new project with specific name.
+- `cargo new X --lib` - to create lib.
+- `cargo test` - to run tests.
+  - `-- --test-threads=1` - run tests on one thread.
+  - `-- --show-output` - show output of every test.
+  - `X` - run test with name X.
+  - `-- --ignored` - run tests with trait `#[ignore]`.
+  - `-- --include-ignored` - run all tests (inc. ignored).
+  - `--test X` - run test in file X.
 
 ## Steps
 
 Total: 100 hours - 2 months - finish before August.
 
 - Rustbook <-- now here
-  - 7/22 completed (spent about 8 hours).
-  - 8 -  1.5 hours + 2 tasks remain
-  - 9 -  2 hours
-  - 10 - 2 hours
-  - 11 - 2 hours
+  - 11/22 completed (spent about 13 hours).
   - 12 - 4 hours
   - 13 - 4 hours
   - 14 - 2 hours
@@ -53,6 +58,15 @@ Total: 100 hours - 2 months - finish before August.
 - [ ] Remind about 2-complement (all operations)
 
 ## Daily
+
+### 22.05.2025 (3 hours)
+
+Plan (before start):
+
+- [x] Complete chapter 10
+- [x] Complete chapter 11
+
+Finished in 2 hours.
 
 ### 21.05.2025 (1.5-2 hours)
 

@@ -10,3 +10,7 @@
 - intentional - намеренный
 - concise - краткий
 - Propagating - распространяющий(ся)
+- coherence - согласованность
+- implicit and inferred - неявные и предполагаемые
+- adhere - придерживаться
+- burden - бремя
