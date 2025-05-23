@@ -24,9 +24,8 @@
 Total: 100 hours - 2 months - finish before August.
 
 - Rustbook <-- now here
-  - 11/22 completed (spent about 13 hours).
-  - 12 - 4 hours
-  - 13 - 4 hours
+  - 12/22 completed (spent about 15 hours).
+  - 13 - 4 hours (0.5 for 13.1)
   - 14 - 2 hours
   - 15 - 4 hours
   - 16 - 4 hours
@@ -41,7 +40,7 @@ Total: 100 hours - 2 months - finish before August.
 - Leetcode 10 tasks (Total 15 hours)
 - Some system programming with Rust (windows kernel programming if possible) - (Total 15 hours)
 - Rust Course - practical - (Total 20 hours)
-  - [Udemy - Zero-Knowledge Proofs in Rust](https://www.udemy.com/course/zero-knowledge-proofs-in-rust/?couponCode=CP130525)
+  - [Udemy - Zero-Knowledge Proofs in Rust](https://www.udemy.com/course/zero-knowledge-proofs-in-rust/?couponCode=CP130525) - ! Prefer this one
   - [Solana Blockchain Developer Bootcamp with Rust + JavaScript](https://www.udemy.com/course/solana-developer/?couponCode=CP130525)
   - [Learn Rust by Building Real Applications](https://www.udemy.com/course/rust-fundamentals/)
 
@@ -58,6 +57,16 @@ Total: 100 hours - 2 months - finish before August.
 - [ ] Remind about 2-complement (all operations)
 
 ## Daily
+
+### 22.05.2025 (2 hours)
+
+Plan (before start):
+
+- [x] Complete half of chapter 12
+
+Finished in almost 2 hours.
+Completed 13.1 "closures" also for 0.5h.
+Module 12 - 1.5h
 
 ### 22.05.2025 (3 hours)
 
